@@ -15,6 +15,7 @@ Preparing numerical columns (like marks and admission year) for analysis.
 Performing basic data querying, filtering, and aggregation to gain insights into student demographics and performance.
 
 **✨ Key Features and Analysis Steps**
+<br>
 The school_analysis.ipynb notebook demonstrates the following operations on the student dataset:
 
 **Data Loading:** Reading the student data from a schoolr.csv file using pandas.
@@ -30,7 +31,7 @@ The school_analysis.ipynb notebook demonstrates the following operations on the 
 **Conditional Aggregation:** Filtering student records based on conditions (e.g., students named 'Anjali' or 'Suman' with a 'Percentage' > 70) and counting the results.
 
 **🛠️ Requirements**
-
+<br>
 To run this notebook locally, you need a Python environment with the following libraries installed:
 
 pandas (for data manipulation)
@@ -43,8 +44,9 @@ seaborn (for statistical visualizations)
 
 You can install them using pip
 pip install pandas numpy seaborn matplotlib
-**📂 Data**
 
+**📂 Data**
+<br>
 The analysis uses data loaded from a file named schoolr.csv.
 The data contains columns such as:
 
