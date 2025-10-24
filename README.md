@@ -30,6 +30,7 @@ The school_analysis.ipynb notebook demonstrates the following operations on the 
 **Conditional Aggregation:** Filtering student records based on conditions (e.g., students named 'Anjali' or 'Suman' with a 'Percentage' > 70) and counting the results.
 
 **🛠️ Requirements**
+
 To run this notebook locally, you need a Python environment with the following libraries installed:
 
 pandas (for data manipulation)
@@ -43,6 +44,7 @@ seaborn (for statistical visualizations)
 You can install them using pip
 pip install pandas numpy seaborn matplotlib
 **📂 Data**
+
 The analysis uses data loaded from a file named schoolr.csv.
 The data contains columns such as:
 
